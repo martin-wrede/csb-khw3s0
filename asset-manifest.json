@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://martin-wrede.github.io/csb-khw3s0/static/css/main.8f6c4860.chunk.css",
+    "main.js": "https://martin-wrede.github.io/csb-khw3s0/static/js/main.48e53c26.chunk.js",
+    "main.js.map": "https://martin-wrede.github.io/csb-khw3s0/static/js/main.48e53c26.chunk.js.map",
+    "runtime-main.js": "https://martin-wrede.github.io/csb-khw3s0/static/js/runtime-main.83f32ed8.js",
+    "runtime-main.js.map": "https://martin-wrede.github.io/csb-khw3s0/static/js/runtime-main.83f32ed8.js.map",
+    "static/js/2.7fdf1237.chunk.js": "https://martin-wrede.github.io/csb-khw3s0/static/js/2.7fdf1237.chunk.js",
+    "static/js/2.7fdf1237.chunk.js.map": "https://martin-wrede.github.io/csb-khw3s0/static/js/2.7fdf1237.chunk.js.map",
+    "index.html": "https://martin-wrede.github.io/csb-khw3s0/index.html",
+    "static/css/main.8f6c4860.chunk.css.map": "https://martin-wrede.github.io/csb-khw3s0/static/css/main.8f6c4860.chunk.css.map",
+    "static/js/2.7fdf1237.chunk.js.LICENSE.txt": "https://martin-wrede.github.io/csb-khw3s0/static/js/2.7fdf1237.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83f32ed8.js",
+    "static/js/2.7fdf1237.chunk.js",
+    "static/css/main.8f6c4860.chunk.css",
+    "static/js/main.48e53c26.chunk.js"
+  ]
+}
